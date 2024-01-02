@@ -13,5 +13,7 @@
 
 训练完后就可以实时识别手势信号了
 
+bilibli:【《基于表面肌电信号的手势识别系统》，介绍了一下自己的本科毕业设计，并找到了当时的源码】 【精准空降到 00:00】 https://www.bilibili.com/video/BV1CQ4y177Bc/?share_source=copy_web&vd_source=3e6359be3152aaff260e69cbed59150a&t=0
+
 # todo：
 可以用识别出来的信号做一些有趣的demo，比如游戏操控之类

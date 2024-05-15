@@ -16,4 +16,6 @@
 bilibli:【《基于表面肌电信号的手势识别系统》，介绍了一下自己的本科毕业设计，并找到了当时的源码】 【精准空降到 00:00】 https://www.bilibili.com/video/BV1CQ4y177Bc/?share_source=copy_web&vd_source=3e6359be3152aaff260e69cbed59150a&t=0
 
 # todo：
-可以用识别出来的信号做一些有趣的demo，比如游戏操控之类
+1.可以用识别出来的信号做一些有趣的demo，比如游戏操控之类
+2.main函数写的很啰嗦 并且没有封装 后续会上传一个封装的版本
+3.很多特征其实没啥用 可以降低特征数量

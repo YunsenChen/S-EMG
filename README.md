@@ -1,5 +1,5 @@
 # S-EMG
-干电极购买链接：【淘宝】https://m.tb.cn/h.5Ln0BHY?tk=ECugW6fja5S CZ0001 「干电极肌肉电传感器EMG单导 模拟信号采集模块智能可穿戴开源套件」
+【淘宝】https://m.tb.cn/h.gXBFWwQTwdw40tK?tk=MZLTWuMwxl5 MF6563 「干电极肌肉电传感器EMG单导 模拟信号采集模块智能可穿戴开源套件」
 点击链接直接打开 或者 淘宝搜索直接打开
 
 我当时做的时候是用了3个干电极
